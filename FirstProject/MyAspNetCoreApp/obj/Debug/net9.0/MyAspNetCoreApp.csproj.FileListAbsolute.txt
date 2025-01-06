@@ -96,3 +96,10 @@ C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\refint\MyAspNe
 C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\MyAspNetCoreApp.pdb
 C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\MyAspNetCoreApp.genruntimeconfig.cache
 C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\ref\MyAspNetCoreApp.dll
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\MyAspNetCoreApp.csproj.AssemblyReference.cache
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\MyAspNetCoreApp.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\ASP.NET\FirstProject\MyAspNetCoreApp\obj\Debug\net9.0\MyAspNet.5203618F.Up2Date
